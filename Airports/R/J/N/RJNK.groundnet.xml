@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+
+  <parkingList>
+        <Parking index="0"
+		 type="gate"
+		 name="N1"
+		 lat="N36 24.1675"
+		 lon="E136 25.043"
+		 heading="325"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="1"
+		 type="gate"
+		 name="N2"
+		 lat="N36 24.146"
+		 lon="E136 25.014"
+		 heading="325"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="2"
+		 type="gate"
+		 name="N3"
+		 lat="N36 24.150"
+		 lon="E136 24.954"
+		 heading="325"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="3"
+		 type="gate"
+		 name="N5"
+		 lat="N36 24.108"
+		 lon="E136 24.882"
+		 heading="325"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+
+  <parkingList>
+        <Parking index="4"
+		 type="hanger"
+		 name="A30"
+		 lat="N36 23.71"
+		 lon="E136 25.05"
+		 heading="235"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="5"
+		 type="hanger"
+		 name="A70"
+		 lat="N36 23.80"
+		 lon="E136 25.19"
+		 heading="55"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="6"
+		 type="hanger"
+		 name="A80"
+		 lat="N36 23.82"
+		 lon="E136 25.234"
+		 heading="235"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="7"
+		 type="hanger"
+		 name="H1"
+		 lat="N36 23.975"
+		 lon="E136 25.447"
+		 heading="294"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+
+  <parkingList>
+        <Parking index="8"
+		 type="hanger"
+		 name="H2"
+		 lat="N36 23.10"
+		 lon="E136 23.897"
+		 heading="325"
+		 radius="10"
+		 airlineCodes="" />
+ </parkingList>
+</groundnet>
