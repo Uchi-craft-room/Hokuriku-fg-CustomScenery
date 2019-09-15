@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+
+  <path>RJNK-Hanger1.ac</path>
+  <animation>
+    <object-name>hanger</object-name>
+    <object-name>door1</object-name>
+    <object-name>door2</object-name>
+    <enable-hot type="bool">false</enable-hot>
+  </animation>
+
+  <animation>
+    <type>material</type>
+    <object-name>hanger</object-name>
+    <object-name>door1</object-name>
+    <object-name>door2</object-name>
+    <texture-prop>texture</texture-prop>
+    <texture>Hokuriku-fg-CustomScenery/Models/Airport-RJNK/RJNK-Hanger1.png</texture>
+    <shininess>100</shininess>
+  </animation>
+
+  <animation>
+    <type>select</type>
+    <object-name>door1</object-name>
+    <object-name>door2</object-name>
+    <condition>
+      <not>
+        <equals>
+          <property>/sim/presets/parkpos</property>
+          <value>H1</value>
+        </equals>
+      </not>
+    </condition>
+  </animation>
+
+
+</PropertyList>
